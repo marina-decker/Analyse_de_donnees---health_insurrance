@@ -1,10 +1,8 @@
-Ce projet est un travail personnel.
-
 # Analyse des réclamations d'assurance et prédiction des coûts
 
 ## Description du projet
 
-Ce projet explore les réclamations d'assurance pour comprendre les risques associés aux profils de clients et aux contextes de sinistres. En analysant les données des réclamations, nous visons à obtenir des **insights stratégiques** pour améliorer la gestion des risques, ajuster les politiques de couverture et anticiper les besoins des assurés. 
+Ce projet est un travail personel explore les réclamations d'assurance pour comprendre les risques associés aux profils de clients et aux contextes de sinistres. En analysant les données des réclamations, nous visons à obtenir des **insights stratégiques** pour améliorer la gestion des risques, ajuster les politiques de couverture et anticiper les besoins des assurés. 
 
 L'objectif est de :
 1. Extraire des **insights** à partir des données de réclamations pour identifier les facteurs clés qui influencent le coût des réclamations.
